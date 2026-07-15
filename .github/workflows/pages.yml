@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: "22"
           cache: npm
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
       - run: npm run typecheck
       - run: npm run lint
       - run: npm run test:unit
@@ -47,7 +47,7 @@ jobs:
         with:
           node-version: "22"
           cache: npm
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
       - name: Build static site
         env:
           NEXT_PUBLIC_BASE_PATH: /grow-recovery
