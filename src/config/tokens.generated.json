@@ -1,0 +1,5090 @@
+[
+  {
+    "symbol": "AAVE",
+    "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ABTC",
+    "address": "0x1EA213F74F5Ee89e98cc46Ad4eE017CddE319fd8",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ADA",
+    "address": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AERO",
+    "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARCC",
+    "address": "0xC3393969A7078A4bCeB2c53f76A9271f8ffFF044",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARKK",
+    "address": "0x6309645495F8f2BbeAb5d5e18423B38fCD191DFe",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARKX",
+    "address": "0x32224be543fb8f338a9a6C337d84478E256eE219",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARS",
+    "address": "0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AUD",
+    "address": "0x449B3317a6d1efb1Bc3ba0700C9EaA4FFFf4Ae65",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BBDC",
+    "address": "0x4ed69956ecC12Ec7fAf14020057e68474Dbc3edF",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BITX",
+    "address": "0xcD44835E3B032520025B05d10e082DAA95ACD0Ca",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BKNG",
+    "address": "0xCE3512446206252B8E4CB08e062A936301752220",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BRL",
+    "address": "0xD76f5Faf6888e24D9F04Bf92a0c8B921FE4390e0",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "decimals": 8,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BXSL",
+    "address": "0xB96C664e124F5e5716B6E72af6167b2f5bdBf03e",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BYD",
+    "address": "0x35Dbd02359C34776EfBc3067722Be37C54186CB5",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CAD",
+    "address": "0x043eB4B75d0805c43D7C834902E335621983Cf03",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CCL",
+    "address": "0xD5e8Dc8Ba0c459A97a79D8ee2B4FeC186e4Af078",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CEP",
+    "address": "0x13dd287E5D5FE3b9C81CAF1e0E25E8299C3bB2c4",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CEPO",
+    "address": "0xed0832d550A5174FED3E8c7ABc3DDB9Ce27dc265",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CGBD",
+    "address": "0x68661D4fc9d373fCA0fBA0c025aF3A2a2123940d",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CHF",
+    "address": "0x1fcA74D9ef54a6AC80ffE7D3b14e76c4330Fd5D8",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CLP",
+    "address": "0x61D450a098b6a7f69fC4b98CE68198fe59768651",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COP",
+    "address": "0x8a1D45e102e886510e891d2Ec656a708991e2D76",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CSQ",
+    "address": "0xe45EbEC86468f79aa7F7ca39D135938450F8a835",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CSWC",
+    "address": "0x58085C054D7155ad72e0E29e39c7c06d3951DB4D",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CYPH",
+    "address": "0x6ad16e5EfA5ea6181267af50F00868a31D42f2dF",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DAL",
+    "address": "0xD021AD9bc28dCBCb04801638937351f6b9045F33",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DAPP",
+    "address": "0x2dA5fffB91ffCA6C9A390cB93C689a8368014280",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DIA",
+    "address": "0x2eaD43394e91Dfb87C85867e4A967a17e19180f3",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DJT",
+    "address": "0x780eA5B181232283F9092AA47F06C4E9404C61ad",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DOGE",
+    "address": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
+    "decimals": 8,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ENA",
+    "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ERO",
+    "address": "0xba921e840Fb60adB0f92b2a977427fE8e5Dd208C",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ETH",
+    "address": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ETHU",
+    "address": "0xa0eC9Eaf7c17E2e63cBf86F235527ffc89d8B0DE",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ETOR",
+    "address": "0x0512a6AFd4368d0A89d8473d032E7fb6E3c4B968",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EUR",
+    "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FSK",
+    "address": "0x5562ae95B97fA3e4EF79e0141c6813D705602Fd8",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GBDC",
+    "address": "0xBC5ad74660cA2A37e908dcC734AE49B41BB6a18e",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GBP",
+    "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GLXY",
+    "address": "0x7B9323d68aaF7bD01748287bADedC029DB1ba628",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GOOG",
+    "address": "0x529F561Fe997Fa24B0aF3b63CC1968612FBA3A87",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GSBD",
+    "address": "0x466FCda954F79258691a2912E508570F10294100",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HYMB",
+    "address": "0x7d3b1a25d7ad1D8c5BC79a93cC03fB1900B9Bc6F",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ICP",
+    "address": "0x00f3C42833C3170159af4E92dbb451Fb3F708917",
+    "decimals": 8,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IDR",
+    "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
+    "decimals": 2,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JBBB",
+    "address": "0x2d8e24A8f3A8D3d4313Bfb1F96329915D01ceEe9",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KBDC",
+    "address": "0xe9f4A59e9fdd782B5Ef4b5C9858D4b3BF344A5AD",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KRW",
+    "address": "0x370923D39f139C64813f173a1bf0b4f9Ba36a24f",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KWEB",
+    "address": "0xe991C1C657DC47ee1d01135C1DAD63f971B8d7CE",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LINK",
+    "address": "0xd403D1624DAEF243FbcBd4A80d8A6F36afFe32b2",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LTC",
+    "address": "0xcb17C9Db87B595717C857a08468793f5bAb6445F",
+    "decimals": 8,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MAGS",
+    "address": "0x9202818a13e0472E9db9FE7f8851E918B44E9b41",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MAIN",
+    "address": "0x468E46f6bbe84A659a303f8060721E1f77da0d5F",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MFIC",
+    "address": "0x96927746509a4bc8C51EaE31d52c7a42D28c9225",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MORPHO",
+    "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MSTU",
+    "address": "0x2de02593023b8f276d673146a9Bee4586C7fd95C",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MSTZ",
+    "address": "0xdA05409634FBFC7D86274D254f1D91c46F7C3ef9",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MXN",
+    "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MXN",
+    "address": "0x337E7456B420bD3481e7FA61fA9850343d610d34",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MYR",
+    "address": "0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NAKA",
+    "address": "0x06dCcF8014A74362F5a7858E6B2EFcd32DCdB53E",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NCPL",
+    "address": "0x59A96E5cb91BAEFBdb5C2a645209ABb90cb3a97e",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NGN",
+    "address": "0x46C85152bFe9f96829aA94755D9f915F9B10EF5F",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NLY",
+    "address": "0xB3358ab71f784910de0cA766Ebdab527323731B9",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NMFC",
+    "address": "0x92c81e1352A7f1E59c4dF6f7a342B82d9D51b3b3",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVD",
+    "address": "0x8fE3bAaa586167eD328A76dc08214389f9cf1F5A",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVDL",
+    "address": "0x10D52dC42E36CE1b5A1c896194A6534c1D6531aC",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OBDC",
+    "address": "0xd8BC9255A11d0159b57a48EAE1C9af4326A532E0",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PH",
+    "address": "0x3FB90376C936506662039dcE5495C64a26e9Ff94",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PHO",
+    "address": "0xcC69D36075d563D010d829Db7a9caA50B3487Bb0",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PLD",
+    "address": "0xbB7F33d8d0914Fa9775EF778Fc3193634290b9Ca",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QS",
+    "address": "0xC80f8fA3F3612C680f2e03615D970E38E57d8dEB",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RBLX",
+    "address": "0xB51c78989Fb8d1bf2C957Dd0522235c92D0443A5",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SGD",
+    "address": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SH",
+    "address": "0x24b0E7646e755bC9A413BC668F15681e271F9f3f",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SILJ",
+    "address": "0x9A42e2D04dCaB31E438c5042bF9Fb80BA948894b",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SLS",
+    "address": "0xEB5D81a49d798955C95345ACcfA063BA17071764",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SLX",
+    "address": "0x0D794e3778fC6f5F0351c77A5C77BD21d26887f9",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SONY",
+    "address": "0x62CC07128DEC1451CA55d20465cCA80dBC24Ca6d",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPSK",
+    "address": "0x9Fd7bc3De3C1dd6041eFBCBAC43250Da7B718a43",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPWO",
+    "address": "0x1bc7cd640fBA3d157f152665b7Bf5cbe4a50d26A",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPXU",
+    "address": "0x9d87f9B29a36e71B4994845526761D7cE4daBFe3",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TCEHY",
+    "address": "0xb34ad3A8D86A0FA484fc428B9b8ad8d2016D37A9",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TJX",
+    "address": "0xf61558B2BC330C55AE85679Be03A76dc0A8C9ed2",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TMF",
+    "address": "0x9d841b8679e3aF7873d10bc565116815327F5555",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TNA",
+    "address": "0xa03743f9d4c17790f9BD7c3990FcC5360e1f8DAe",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TRIN",
+    "address": "0xFd96662821248DDddb807d85EaE3765962D28035",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TRY",
+    "address": "0xFb8718a69aed7726AFb3f04D2Bd4bfDE1BdCb294",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSLL",
+    "address": "0x2ec4cfC684f9A3B74C5876058FfFfd31BDeA0464",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSLQ",
+    "address": "0x2349B839F9395aF7feEDa3444A4C9B3137784330",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSLX",
+    "address": "0xfAbd645FB53bAc74eD14fB9991161515f273FD33",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TZS",
+    "address": "0xF476BA983DE2F1AD532380630e2CF1D1b8b10688",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UNI",
+    "address": "0xfb3CB973B2a9e2E09746393C59e7FB0d5189d290",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "URNJ",
+    "address": "0xf44fb4D41415E1a0d6953099F72a9f1C67204297",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USHY",
+    "address": "0xd194fDcBC9B98d829f7A35Fde25fEef8F8E41eF1",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VWO",
+    "address": "0x51931A7aCb6B08323Fc0CdB2Ff68309cD0fD44b7",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WBD",
+    "address": "0x64075Ba579b7372C298767f66f05feb9fE043707",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WEAT",
+    "address": "0xc6BBAf4D804327d84931310E49c863E63A2Bd868",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WOOD",
+    "address": "0xB8Ebc0fc2453A1Be3AB48Db2dE6237Ce56e00C48",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XOM",
+    "address": "0x78bb8ff6BAa486c31Ce0eF1A157798F7a606565c",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XOP",
+    "address": "0xb608E35515b22C05af465575f24cC2F56Ca30066",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XPEV",
+    "address": "0x41a25C97cBE66D6045aaCf44B0bCc5f9f4F5cD18",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XRP",
+    "address": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
+    "decimals": 6,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "YANG",
+    "address": "0xF7424b6acb4528d8C7b81EF71c294B99c21a3604",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "YINN",
+    "address": "0x7B6d358535Ca7F375287b3Db9ADdd24AFc27088c",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "YUM",
+    "address": "0x48A0ea70C2C7d025CC95672b9EbE6Ad026129B44",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ZAR",
+    "address": "0xb755506531786C8aC63B756BaB1ac387bACB0C04",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "mwETH",
+    "address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
+    "decimals": 18,
+    "chainId": 8453,
+    "networkName": "Base",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARB",
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "decimals": 18,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRV",
+    "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+    "decimals": 18,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GMX",
+    "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "decimals": 18,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RAIN",
+    "address": "0x25118290e6A5f4139381D072181157035864099d",
+    "decimals": 18,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "decimals": 6,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USDT",
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "decimals": 6,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XAUT",
+    "address": "0x40461291347e1eCbb09499F3371D3f17f10d7159",
+    "decimals": 6,
+    "chainId": 42161,
+    "networkName": "Arbitrum",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "1INCH",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AAL",
+    "address": "0x02D608506cA0048D0D991a11F1E7Fb8CAD1e44f8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AAOI",
+    "address": "0x149Bda9e7251DC36f536d1fE7F92A5ea203F4F3D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AAON",
+    "address": "0x0B61036b5182A29A228d8eD9e647a16f62baD1bC",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AAPLON",
+    "address": "0x390a684EF9cADE28A7AD0DFa61AB1Eb3842618c4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ABBV",
+    "address": "0x8677aBAD7B458bF16a0fB2676DFC7d3f55Ac202A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ABNB",
+    "address": "0xEf80743f78d98FC2B47a2253B293152ce8B879ba",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ABT",
+    "address": "0x5a20886b575058dd7299785f0Ea9b1172942a3E0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ACHR",
+    "address": "0x91C62325F901EE29Da8E521CfE68980332A4Ca06",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ACLS",
+    "address": "0xF2e14fCE9259C8A7903c4be5326058aE2D004FC7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ACMR",
+    "address": "0xC5EFD0c3a8fF6D9816DA7B56625aB4C398Eb9e08",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ACN",
+    "address": "0x7aF44d51d1fb88c5b74Fc71d3cba649Bb8099D14",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ADBE",
+    "address": "0xcB22Db0EcB6fe58B7B47db443dCFdfDFbF729CEf",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ADI",
+    "address": "0x0E246E05212DbBD78A354C072a92B4e5723B2fa0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AEHR",
+    "address": "0xdCE0957E22F7baf2AA1a50d854e03cEe6f215004",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AG",
+    "address": "0xa2a97e3d6140e8ccD058f3b84230F3E1a349b1a3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AGG",
+    "address": "0x08cE97F3D5Cf11E577D091ab048bC5e2EaE3FABB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AIP",
+    "address": "0xaE922B6cc2371B6Dce592A82Fac15ef890a7D467",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AIQ",
+    "address": "0x333932F15E6E14f4a630163D3224548a721DdfA4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ALAB",
+    "address": "0x573e11CC667A8E5BE0c7Af2410403371088D3d0D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ALB",
+    "address": "0x0B790ABd6594918DE1022233b7cc79baDB84d92a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ALOY",
+    "address": "0x941e3a7A6fC97B094C63a0348367cf90D93Ff090",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMAT",
+    "address": "0x5ecC352C4640f1d26BD231dbBd171f40f7d0Eec6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMC",
+    "address": "0x1d7B5e06fdbe4FD33f5C64C081E32B5d539751D0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMD",
+    "address": "0x9f16E46c73b43BDB70861247d537bEE4eA18F639",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AME",
+    "address": "0x7a5bD36047A9D15C90FA79b0654De8dd9d6eBbB1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMGN",
+    "address": "0xFBdF0366F800CC79d6663DA26bc0BF21FB455Aa6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMKR",
+    "address": "0xb84e150A1d18380cFeEeBCdE8756368dD489A1A3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AMZNON",
+    "address": "0x4553cFe1C09f37f38b12dC509F676964e392F8Fc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ANET",
+    "address": "0x538e2838f9ebC9B891399DF4a8dcc42890D9dc20",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AOSL",
+    "address": "0x55B8cc618C4209A97250Dff926d3d708814d36aa",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "APH",
+    "address": "0x70AfC3a600f843d2018dF16B0b316E4BC9c603E9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "APLD",
+    "address": "0x18De24acb876C0B8392d9C55583Bb21c0355980b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "APO",
+    "address": "0x5630B5741A33371D9d935283849A16dC808f7F3A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "APP",
+    "address": "0xEDB3124e96c64C177Eb709CbC64F9977dB40Ea74",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARGT",
+    "address": "0x2b08f1c28Cb1EdE3b11D397929F00215fA97ecFA",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARM",
+    "address": "0x527C6436E1eAa4f2065CDE4090F798Cb5D031dD6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ARQQ",
+    "address": "0x1161989389A991532dCE453D04d6346C2581c907",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ASML",
+    "address": "0xb034f6Cb52b7f2Fd5a7EeeffCa6b9aDCD6b9A6F6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ASTER",
+    "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ASTS",
+    "address": "0x45Abf29515bc23F8c0Ed2a06584444cE473A75FB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ATKR",
+    "address": "0xaFAA2087093b7B396ADAB8216506D9066c6A6F13",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ATOM",
+    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AUR",
+    "address": "0x66a1409FE303d00209202933e3d31eE43AaAB39d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AVAX",
+    "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AVGO",
+    "address": "0x0ED2E3180EDf393e6bf8Db124bD15DDD54dE150A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AXP",
+    "address": "0xD803f8777187D6DEe1eA57854aEB957043fb1675",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AXTI",
+    "address": "0x0C50323AF81D5C33822c6Add256Fb9093D42BC74",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BA",
+    "address": "0xf21132A811Ad1A878E21Af60F64d4e690C9DaA42",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BABA",
+    "address": "0xd5964f3fcee8D649995AB88F04b8982539c282D2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BAC",
+    "address": "0xd615468088B19FB9d4F03CB3CE9E33876fF3Db99",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BAI",
+    "address": "0x2659Dd96deF34ceD3679901E5500779BE297fE5a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BBAI",
+    "address": "0x7BA995f1662A01f3bE0DC299ce94Bb7e9C7075f5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BCH",
+    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BDX",
+    "address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+    "decimals": 9,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BE",
+    "address": "0x17D03aE104a9D12E9E5794Efb109B817Dd7f3404",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BIDU",
+    "address": "0x467e59ce5D5fe01686D4A80dd1E1DAE13549AA6c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BIL",
+    "address": "0x03f09E2EF6e64D804a5579E21E7b519db174cf54",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BILI",
+    "address": "0x91fc7371d6dE682A1e8CFcB4EB7dA693312A03a4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BINC",
+    "address": "0x940F442746D9AE699e63c378D52C4494ea02684f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BKCH",
+    "address": "0x2291E5361F4ef7bB0d6703377bF497bFe4325152",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BLCR",
+    "address": "0x398aE5B33505f121C359f22B300FbcFa81DB79AE",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BLK",
+    "address": "0x24F5471183eA549987f245D6ce236B6108869C92",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BLSH",
+    "address": "0xFBE22D27B6e153244882fD7bdfE7C6109918281B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BMNR",
+    "address": "0x52AD57A7eA642E99A892AFc79E937B383f1b59e9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BNO",
+    "address": "0x5f2d37192576a6804F44722eB828E280D5FB43Dc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BOT",
+    "address": "0xC43Ae29aFE58bf90dA6Fe3Edd570C2E735fb2850",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BOTZ",
+    "address": "0xb42f5597EAdd424de67b46Fe5d1EC4b61367A4e5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BRHY",
+    "address": "0x6860a2f969A8133A23421ddce21397995139D7e8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BRLN",
+    "address": "0xD41829Dec8b51119176Ee0a6b73BC8B2718546A9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BRTR",
+    "address": "0x463196CC72cBad2D1AC1896CDE0766bfBBd64443",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BTDR",
+    "address": "0x3A562836AFB1026F5D7A6B6dA1125D27fdfeE372",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BTG",
+    "address": "0xe2Ac868F2FD097086d83Bc939248E5aE08d35DA4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BTGO",
+    "address": "0x5fA699c0c1319b8D86489AF77dFDe4Fa97B47DF8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BWET",
+    "address": "0x472F46C5D7409C82234701EFf7D4DDA4c28B5a93",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "BZ",
+    "address": "0xC2C7fcdDC37f6737ca2481ebda6B81Ee279fE20C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "C",
+    "address": "0x8dDB97556F6ae98B4d408c56B167139fE1Cbe3e8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CAMT",
+    "address": "0xc2f65e745Fd13af1d00d5c81dD33F762FB81C264",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CAPR",
+    "address": "0x812Fc2943371C952c6c8Daf99Fe665Eb0e40Cd27",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CAT",
+    "address": "0x274B0cB6DB9473245A31cDEA9B789786f4108e4B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CBRS",
+    "address": "0x441a4D4Fc23f17F4cf23E3d60F12d2BD6F176728",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CCJ",
+    "address": "0xa75F08b9a91439DAac9cc7072857cC0a98Cf527A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CEG",
+    "address": "0x65D84F0990B7394209d591380C2952c83D778aA3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CEVA",
+    "address": "0x8B68b3D3173c406D2C5F4f2107D54E6562A23120",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CIBR",
+    "address": "0xDcd4536508060dab8F43C334B3a6C72c39528DA5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CIEN",
+    "address": "0x89a9F7114bE6b220fAe645ba0cbB720889867415",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CIFR",
+    "address": "0xDad07D0Ca26ed4109Bc00893dBee3Ed4cE8ce2a4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CLF",
+    "address": "0xaC38a6608868e2f487d7993EA7339C69e5AB077b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CLOA",
+    "address": "0x4Ef383f521e803863a33FcA8F3f861e53eF9Ef9B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CLOI",
+    "address": "0xd7E3317D54473DAb04135fb0676623f237Ff5CA9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CLS",
+    "address": "0x7b695132b165cb6703F0212bBB1e91A782526156",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CMC20",
+    "address": "0x2f8A339B5889FfaC4c5A956787cdA593b3c36867",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CMG",
+    "address": "0xAed5985afC12aA09d87F55B4b1e6bC3B8f7B0208",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COF",
+    "address": "0x53a8c5fc5643b437779742f494691e6b7C660a8b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COHR",
+    "address": "0x0585756aAFB241b0f8A9Df62Db26c566091Bde0b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COHU",
+    "address": "0x58cE0De0CED164f2Aeab5FCf81D67f3c61CB562C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COINON",
+    "address": "0xf8589b526FdD65F7F301c605a6e04F0F1b4B3620",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COPON",
+    "address": "0x0D586b51A90Dc999f9bB6A0506Da7F034a1D3A2E",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COPX",
+    "address": "0xEC93fE7Ff4B09CA3CCAFBc4CC9615E62BE412780",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CORO",
+    "address": "0x23def658ea0B4081161d9AB8fDfEef5345bcaFBD",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CORZ",
+    "address": "0x25eD86472cf3012607DC6576c58e6432968255C2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "COST",
+    "address": "0x34375f826fD3dD4E15F883d4F4786bB45eb705ac",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CPER",
+    "address": "0x0888EDfeC4C0A66FCE074796CF4F6509c00f6c49",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CPNG",
+    "address": "0x19904Bc04c09e5d29Ed216dDD105bdf103A0bA2D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRCLON",
+    "address": "0x992879Cd8ce0c312d98648875B5A8D6D042cbF34",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRDO",
+    "address": "0xf157481bEBd0C0686780fd0F61806C900A6137e8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRM",
+    "address": "0xD04a2BB053277721a8321d7441eEd5b42FDF7250",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRWD",
+    "address": "0xe6837794FBC6DD024733A1A31F86061296FA2752",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CRWV",
+    "address": "0x76E39171Cb665a35981e744e2CEB7012F76caEAc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CSCO",
+    "address": "0x34304f2f7cC487eb4186e6D69F5905A613474aA2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CVNA",
+    "address": "0xc145DC2eBDbe8EAD1fEcDeBF46c76Eb1Fdd0104D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "CVX",
+    "address": "0xD3113A0AD20a46F6a662C63fe8E637f7713E59c7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DASH",
+    "address": "0x7567c2a46BCE46373b454682F3d95e6535BDe144",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DBC",
+    "address": "0xFC2067E3e6a289C205151d96Ef67A032f339566D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DE",
+    "address": "0x90cCbB75d61Cb65cd73a3ABb5Df04a75961612b7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DELL",
+    "address": "0xf26518958935654878De15BE7bC79A26971583Ba",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DEXE",
+    "address": "0x6E88056E8376Ae7709496Ba64d37fa2f8015ce3e",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DGRW",
+    "address": "0x1CD89241B26FCDC421FD02907d6504C8AbBfe1bc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DGXX",
+    "address": "0x09f5a6ee1b46787dd252827E40502c4980a0285d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DIS",
+    "address": "0xeEe9eeE593cB8f7946260B4066CBa7907f40ACFa",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DNN",
+    "address": "0x70bd780076E25D087Ed9c35f4e4A540522Abe8cF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DOT",
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DRAM",
+    "address": "0x087b5761b161429013d41eA54cd2fb6022A21564",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DRS",
+    "address": "0x2A0A317660F497d4c4836d1ef5fAF5970e69437b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DTCR",
+    "address": "0xEc4C1944682B8c7ba6c825e9A8B2B32Cb5EcacE5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "DYNF",
+    "address": "0x96A1b43C8146E6D1f6e66B226A3c520CbE3d8a50",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ECH",
+    "address": "0x551f8Db0da800C910E12Cf991eac306714481685",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ECO",
+    "address": "0x660ab35bE0f102A1d4d4B60A96Ac3abfd345e038",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EEM",
+    "address": "0x00c81d35edDF44c75d4Db9E07bDCdC236eB0ebcf",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EFA",
+    "address": "0x38B9A53bfDc5dba58a29bD6992341927C2fca637",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EFV",
+    "address": "0x40375E3Dd70232eaF264706e5662b90A079e3D31",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EMR",
+    "address": "0x60B273bDf00a9A52238Ca706257f61efc55bDeE0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ENB",
+    "address": "0x5397cB3f1E419050D9d7160756dE0f4eD4f5f898",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ENLV",
+    "address": "0x5A9D924FC336A5EC8cf3B1909aA660533B50b015",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ENPH",
+    "address": "0x30938154E2697694F41592C2e48459287dEBe4BF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ENTG",
+    "address": "0xfB4a89A077B9020C7101b1Af760BEB708F37a416",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EQIX",
+    "address": "0xE4E12c9CEc3e8cAE405202A97f66AFA695075fa0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EQT",
+    "address": "0x9A1C88ac479906A7f03e76605b15B72DF10d8E51",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ETHA",
+    "address": "0x04B16ff1F9673146F68AA5d5F57aA45AdcF068E1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ETN",
+    "address": "0x4697b2A050f7B5A8e1ebc27c325f9D78D094f041",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EUHY",
+    "address": "0x93eb8376ec73dD07F46ba7ae1EE9b0bbD937Ad93",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EWJ",
+    "address": "0x82715299f3f132FB85f3De1F7e8fAfd3d79f3eB5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EWY",
+    "address": "0x12B7aDC48416A103F63E7e6210f62C81dfB91fD0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EWZ",
+    "address": "0x9876F4b879cDe9Aa49Ffd260034A0698B7B33A49",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EXOD",
+    "address": "0x92d504158A8Dc69de989dB5EDe3230D958fb8630",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "EXTR",
+    "address": "0x1EadA1306DF72A5607827416c1A1307d7056dFFf",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "F",
+    "address": "0xb1ABA049C42B6fe811766EBA61F51f11C57acC4b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FCEL",
+    "address": "0x47Bfe4921Bd74C66c6B0C35C517aBdFB5E3BAFb3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FCX",
+    "address": "0xE3b17E6D290A0F28bd32aF4064637057627004D5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FFOG",
+    "address": "0xEA130432a9feE9ca1A7eDa84028650d38Bd0E232",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FGDL",
+    "address": "0xee0d57462f20434030B8262204c00c0eA0399C41",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FIG",
+    "address": "0x93fac02b22B6743423381D163aec418178019B7a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FIGR",
+    "address": "0x620477782cEa4C4171165396F8014EdEF83a13da",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FLEX",
+    "address": "0x102138be022f8D142bcB817F7264921d65209608",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FLHY",
+    "address": "0x240Eb4859B4537D250cf784cc758c404dA5Fe4bd",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FLNC",
+    "address": "0xF1a96d4B591E446445600789D60C73Dd636B357c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FLQL",
+    "address": "0x48187890D16aEE64798E02C5BeD510f4dB5694A9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FN",
+    "address": "0xA1DaaB37dA2a29A1eC721922b55962eB8B481001",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FORM",
+    "address": "0xD678F3F86436Ee298d28A3C414c367aDFeD65337",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FPS",
+    "address": "0xd8dAFFd168651470cd5397A5D670DD5F8E4b02f5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FSOL",
+    "address": "0x54B92Fd77229269Ff6484942C123cCa72f2D6fEC",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FTGC",
+    "address": "0xe96F94e10F1265dcc15F83D251f1F6758d2CD67D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FUTU",
+    "address": "0x5acf40056ED51C8bBCD1b125Ef803581Ac89A627",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "FXI",
+    "address": "0x9b8E987e6fEc8Cf1380C4dcA7071e2C7853AEEA1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GD",
+    "address": "0x5d1a9d8aa362a6424b65Fcb601e52FefcE5b4EFA",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GE",
+    "address": "0x5151A22421Ed4277F1e4ca4785a07b035D548a36",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GEMI",
+    "address": "0x817942D5DE16092656568e9f67F54CCb462f8989",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GEV",
+    "address": "0x2Aea1D415D45CCF3EaBE565d45DcaF4ea2035b9c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GFS",
+    "address": "0xAff6b836d3eBd29aEb0C8b840Add04EF79d79678",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GGOV",
+    "address": "0x8Dd51E233E2344498F876c231a3Bd962E9750a6C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GLD",
+    "address": "0xfA9a1E901085e269f6D428F79Cd5252d8b919344",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GLTR",
+    "address": "0x15580092796f69825CFf4738Cac55D05D41eaa42",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GLW",
+    "address": "0x25a4DbAE9a0Cd8C75656D6b50FFDf4900CC20d8f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GLXY",
+    "address": "0xF98B89825233808CD37706A53D2b4Ae3e359d442",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GME",
+    "address": "0xdABb9afF4cf02f26D2014e4cA9f94aC6fe6572a3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GNRC",
+    "address": "0x237c9F794EDAaA0071cDF64a41c25EB76771754b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GOOGLON",
+    "address": "0x091FC7778e6932d4009B087B191D1EE3bac5729A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GRAB",
+    "address": "0xab2F74804C022C5249d52e743AF4340E42F5f3b6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GRND",
+    "address": "0x20CCe48D767eD68CBbA7727c4c504eFE5Bcb626c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "GS",
+    "address": "0x0D4f9b25F81163Fb4840BA4F434672543823000C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HAL",
+    "address": "0x7A18bB5FD6Ba6343180AfDCf6Dc406eF17F7fC04",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HD",
+    "address": "0x31DAbf49E4BC1Af1456c1819cb6A2562154e92F3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HII",
+    "address": "0x4Dc8dCeE22a56fEECa930dfF45581aa9A14D5E05",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HIMS",
+    "address": "0x4693f6F5EF257381a28afd0673e64d8b32d5C6aD",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HIMX",
+    "address": "0x6cF3b84f0Ba4d86d9f6987812A11Db2c447D9483",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HIVE",
+    "address": "0x3F19A16A401a6AF05150479Ccb76EF2Fb57B0dF3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HLIT",
+    "address": "0xfF6f45B2D761CDE4dAb7F5d7A1A5f691F52F3bC3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HOODON",
+    "address": "0x19601179A60f55Ff6636F5D1A8b6671053Bd60a8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HPE",
+    "address": "0x492E678c1ea048C70eDc635047cdBB87FF5362a2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HSAI",
+    "address": "0x847ef23A3F99aF79A185ce033e1664165b846eEa",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HUBB",
+    "address": "0x1C42C07257F936a7c4f84B8D756c95817E23631A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HUT",
+    "address": "0x3A82f1C847cc55e52e597fD81c63a812C6722541",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HYG",
+    "address": "0x0DAE81A905b645a3D1E67129b89CD0Acda224E9A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "HYS",
+    "address": "0x75E9D68e99e76714ed1a7663ab48ba3AaBd7A6c5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IALT",
+    "address": "0x879Fc0D8DFdb13b4aF3513d9838f82c4Df8F57E8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IAU",
+    "address": "0xcB2a0F46f67dC4c58a316F1c008EDef5c2311795",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IBIT",
+    "address": "0x68B07cEf227Cea1b2b6683921C8c825cd5C69Ec7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IBM",
+    "address": "0xE8ff70859Ce4cbd72E4352b4fb45F5BF39d07464",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ICHR",
+    "address": "0xFb836dc42EBDfF6aA8DB9339336899061D1C4f3F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IDEF",
+    "address": "0x5Fb339393773414039295ea97A92614fed85D556",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IEF",
+    "address": "0xA486a0A05250E8621bA3B26C3bbc517145eba619",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IEFA",
+    "address": "0x918008C3d29496C37b478b611967BeaCA365aF36",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IEI",
+    "address": "0x4E07B55E62f443859706E03aeA0b3fe3a1bfEA8B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IEMG",
+    "address": "0x22092c94a91d019Ad15536725598B0A6BE0a73C0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IGEB",
+    "address": "0x9e609E96B688927aa49Dcd9758E2081f0c48ccAB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IGV",
+    "address": "0xA046C2F0A1Ac0a0E8829eFc12163ae892CEAfAc2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IJH",
+    "address": "0x167E93A849A0cc479769132552B99aa1cFA0948c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IJS",
+    "address": "0x9609f804FD90440Dd3F4AfA1E0a4D57DFd580Ce8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INCE",
+    "address": "0x5e24DB6DE4C21E2C8f9E81bAcfCedFBAC2DeE4aa",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INDA",
+    "address": "0xdB0748297fbEf0B33dF89e86519A0BD3adAf6459",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INOD",
+    "address": "0x517A25e696421C88218B43cbb7EA0f873B6973A6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INRO",
+    "address": "0x790cFb394B1f399a3543Ba1F835DdE114A387eeb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INSW",
+    "address": "0xE3316F5372559768E14Bc7FfE983891A742987E7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INTC",
+    "address": "0xA528CaaA2f96090e379d43F90834C75dF54D6E74",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "INTU",
+    "address": "0x6E3e077A6C0E3c27fD6D00B97387D9b7Bd451BAB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IONQ",
+    "address": "0x40d8E1fbaf69173c47fa493FeB50a84eeC6b57eE",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IRDM",
+    "address": "0x3cE678692a60Fb5F31963b05CB158F0cE0Ff1736",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IREN",
+    "address": "0x8FD70eE385f470c8D6FDA2D93a4E49C849BAC6a6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ISRG",
+    "address": "0x784584933C2192Caa062E90d8140D94768CE62d8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ITA",
+    "address": "0x88B90f45bd6a4F97f7D85d280eD64A40880e4935",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ITOT",
+    "address": "0xcf9CAf83053213c44dd7027Db3e1E4aC98E55f8f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IVV",
+    "address": "0x1104EB7e85E25eB45F88e638b0C27A06C1A91CB2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IWF",
+    "address": "0x40755F06aB7F8dE1ab3a9413b1ef562d63DE19B1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IWM",
+    "address": "0x500EAFc69b68Acd6F27064f9B75F1C7d91CC4d9F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IWN",
+    "address": "0xF54b94eA21e1Da5d51eF00fd4502225e5394F874",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "IYW",
+    "address": "0xbEeEF4361F6603eDAceF5205b343C6bb6473A099",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JAAA",
+    "address": "0x84719A1082ed487c7eeac7d69885E3CC2009Ea78",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JBL",
+    "address": "0x8D941EbB4921f8d43CFA65233B14A547f96559fc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JD",
+    "address": "0xE92bE960aE64F6a914Ca77014CaC9E56DE7f36C1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JNJ",
+    "address": "0xd1F799cB9f5d0a02951b0755BeCeD6C43882712F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JPM",
+    "address": "0x317bF42b43A394860718266Dec445DCC9FD9dA49",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KEEL",
+    "address": "0x5e3cA19c533C8C0381eac5319624596557C279ED",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KEYS",
+    "address": "0x3de956D959726C448649354C6fBCa92B82dC5Ed7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KLAC",
+    "address": "0xFc263946439b0d802bF4C5a6fCd34E2885259f91",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KO",
+    "address": "0x405F38B90beBF1259062CF29Da299f3398662bcb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KOPN",
+    "address": "0xED5615c5280E897241b9e4f019562A581cD49390",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "KWEB",
+    "address": "0x7437203800140BA7d9081ddE8cEF09EE40E3Bf03",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LASR",
+    "address": "0x476a2caD3197Df68186b61bC36296E8d3d2d1b85",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LECO",
+    "address": "0x43807bf4ce06F4fbb4FA8DEac37BF274AEa324Da",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LEMB",
+    "address": "0x653156b9a46E21906Dddc82414871bBDB0261319",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LI",
+    "address": "0x9810beac9af3C30d14cFB61cDd557E160f60FD50",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LIN",
+    "address": "0xE1743616f705954620aa351465c8885fBDE5A8A9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LIT",
+    "address": "0xfd7778D5d4e804b5B512471Df36d60C465199A52",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LITE",
+    "address": "0x0fAcaFB97ffDbA3cAe88512070AF49bd30674cD9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LLY",
+    "address": "0x341D31b2be1Fee9C00e395A62bA41837F4322EEd",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LMT",
+    "address": "0xd09F7B75b9659b864C6F82bb00Ff096f9D277998",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LOW",
+    "address": "0x2ec46EeD30c94caa5979e6A0395Abe824138335f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LPTH",
+    "address": "0x6AD19E0A57Cfea0bC521A12C6c82372852842933",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LRCX",
+    "address": "0x35895a1fa1AFf7FB3204fB01257409Fd75acB24C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LSCC",
+    "address": "0x80F03ABCb2BD85237740dD69f87d2F5De3909012",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LUNR",
+    "address": "0xA3b7B7cfEb023a6C4f444f5ca9a3Fc85809Ece15",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LWLG",
+    "address": "0x8aC67002282EeA816aFA0160d22a8d27f05BA07B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MA",
+    "address": "0x25FfDA07F585c39848dB6573E533D7585679C52d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MARA",
+    "address": "0xd226d8170EE38793430C7Dec6903df4B818BB74C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MBLY",
+    "address": "0xCC977B493f52B4b6B6a0c3594530f2BaEe565E96",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MCD",
+    "address": "0x995ADd4bA29a628A57930a8a185c62cA044eC090",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MEI",
+    "address": "0x89C37104aFcee9a72187E05D960a1e09763a126e",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MELI",
+    "address": "0x60a8f8e05200fF73aFde9E2caE819bF1605f0BdD",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "METAON",
+    "address": "0xD7dF5863A3e742F0c767768cDfcb63f09E0422f6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MKSI",
+    "address": "0xd41699aA1BfC1c5f172c27f387372bd30717a5db",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MP",
+    "address": "0x4BAf4dC56Cf6a525a0874e25cc6372A6A8915135",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MRK",
+    "address": "0x869027261075c3C239D6A26842579b93802606f4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MRNA",
+    "address": "0x01486675Da0764ee780Ea7cB65C33062E9B2D28c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MRVL",
+    "address": "0x1501EC83FFEf405B4331CC4f73277a40fb0C627d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MSFT",
+    "address": "0x6Bfe75D1ad432050eA973C3A3DcD88F02e2444C3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MSTRON",
+    "address": "0x7313EA16493b2f55054Df0131A3A14B043ec8992",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MTSI",
+    "address": "0x1dCd320C5d7b84CD407437c58d56CbbDd0D9d8f3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MTZ",
+    "address": "0xf49046aAE76EAeb7ffd3EF116ce0f7CD0F52d93e",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MU",
+    "address": "0x8b6ACf6041A81567f012Ff6A4C6D96d5818d74bF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MXL",
+    "address": "0x5Cb7671740877723c9aD55348a751D7B57052E07",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "MYRG",
+    "address": "0x93b83111c54aa3993B2De5FCcD4c70B26c522D5d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NAT",
+    "address": "0x33F3df3cEA2A8c4828e88f30Be932850cf749739",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NBIS",
+    "address": "0xee268780473E7a0e47baC41547C6E01512555A16",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NEE",
+    "address": "0xe9d43f7E6b2237e8873a7003b3F43c6B03160bE5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NEM",
+    "address": "0x5E63232993789601CE362e0240a299C1DfCBfbEc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NET",
+    "address": "0xfEb0793EEa97585Eb3a541F3FD53450D225b2B87",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NFLX",
+    "address": "0x7048F5227b032326cC8DBC53cF3FdDD947a2c757",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NIKL",
+    "address": "0xe23f03d2907CdC38a10F6CcDc1a157bf1AFe51De",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NIO",
+    "address": "0xC6f9eDbeE6042a237D72493bBdA3eE2c3c62F708",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NKE",
+    "address": "0x04b5E199F2eC84f78B111035F57b16BeE448dB6F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NNE",
+    "address": "0x3c276Dd9f9Eab5510f9eAfD3a6Ea54879b27CA3D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NOC",
+    "address": "0x4D3442D884202584F1729bCA20Db05472B886B52",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NOK",
+    "address": "0xE9518CB0010C717DB69001F1418EFF9e97330137",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NOW",
+    "address": "0xeb19c13c54B1cD48AFc62F6503375e92D5f1e856",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NTES",
+    "address": "0x282973969118F9fe39bf2FF3D8DD1EFEE82CCb11",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NUE",
+    "address": "0x2155f5344BA7763f80420dE617Af41E56De0552b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVDAON",
+    "address": "0xA9eE28C80f960B889dFbd1902055218cBa016F75",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVMI",
+    "address": "0x8a5f83A4b3AD2B9604F53c4dDf8DcE1329f9d433",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVO",
+    "address": "0x08a513779f46FFb7A34F16094a94016d010128a8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVT",
+    "address": "0x484Ce83BB55b50D70236C7D1E29E0Ba7524f905B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NVTS",
+    "address": "0xB56B7C2F9988448790B0F78697F405aB5e8597E6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OIH",
+    "address": "0x31D6011023D6c7695Efc29bB016830F3F36De40a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OII",
+    "address": "0x4321366277d4a6E170F1f28148C93E8c47636c14",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OKLO",
+    "address": "0xaF6C03acf72355Ce98d0741302B78870b376428C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ON",
+    "address": "0xB35a9EAB5D25282f4e668798B629a9294e9A47aa",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ONDS",
+    "address": "0xd85d4Ce29b4cA361FF72Ef0E53D6236e334C5DB6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ONTO",
+    "address": "0x2F79d36184DfE7968C9d23f87cAe1aB72447c1e5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OPEN",
+    "address": "0xa09699fc0cbb1F85128450A0ff6a3c4d3A7E7B9B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OPRA",
+    "address": "0x88672043905BdD272df55a5A7Bb1b7E1e693cBc5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ORBX",
+    "address": "0x2bC97B1c5F83F080798ee9E38Da5FBF621454FCf",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ORCL",
+    "address": "0x03E4bd1Ea53f1da84513da0319D1f03dD1BBCf93",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OSCR",
+    "address": "0xB0752Aa50B089EE6eA9aCD51373207Fa460E87bb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OUST",
+    "address": "0x30033A17ea24E90631532582a1917c64AFBF87Af",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "OXY",
+    "address": "0x01b5a4aC600bE98448DbEFBB78BcDF38262552cc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PALL",
+    "address": "0x3fCD741646A9790635b938Cdb69af5Df356CbaAB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PANW",
+    "address": "0x0eAa1a75bd682A5669AB2371A559fBD039C6b9Eb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PAVE",
+    "address": "0x6f28Cb07790c1049ecd7482d09Fd13B977B47201",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PBR",
+    "address": "0x2b1d5cDeCC356530a746C5754231EfaEAca64022",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PCG",
+    "address": "0x47B36DDB9dd12A8411f78226f55e8c3f0D65481f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PDBC",
+    "address": "0xCF3E84E62002ca459Db81B2032d7Fe13715BAd51",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PDD",
+    "address": "0xF3e82EA164CB344B2b11Bad4c24b0Ea4F7BA4714",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PENG",
+    "address": "0x2144d620E3471441b12Bf256E01a09EAA5ea7F12",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PEP",
+    "address": "0xf99F8f3a95257d82006183bd524efa7aaCc9Ef7A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PEPE",
+    "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PFE",
+    "address": "0x8A83C31D6751833B4940b6e871c48d9A15a07b46",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PG",
+    "address": "0x400F1e257f86D25578A0928C94dC95115F09d5c9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PINS",
+    "address": "0xCfD1F0DF84300EA1a4e2BA5238043A2fA5A7237c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PL",
+    "address": "0xf9015E0b3AB4ddd216F522D6150dB826c9BE83f8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PLTR",
+    "address": "0x9351AbD19f42101dD36025E495B98E910b255d78",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PLUG",
+    "address": "0x4752AE8f910b25e64E4406eAad50c1B4E8DE7E6D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "POWI",
+    "address": "0x5417b7CFDb8a187004067297EbF1491c8D6D5C09",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "POWL",
+    "address": "0xD381aec27DAAcCC87F102FF4Ad6652F8b5F20bA0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PPLT",
+    "address": "0x3EC23F52F6573FC0587A0631dd8C3b107f6bcb35",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PRIM",
+    "address": "0xD60b0276640a693ece55660afAC0383ca6433882",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PSQ",
+    "address": "0x3802dc739eF9E226f36421A9c15eFa519153bBBe",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PURR",
+    "address": "0x89CC700F308a4C59889fBF3286216554C53B0601",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PWR",
+    "address": "0x2418c2e1aE3B8D767594b3974D32610743f88155",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PYPL",
+    "address": "0x374D03A6c0d5bd4bE0A5117eBE1B49D52aC8a53F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QBTS",
+    "address": "0x8C7Bf0ED6bc778bde1489De1592C1aAd3E66371d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QCOM",
+    "address": "0xfBD4D681C92ead6Af0E49950c8B2e47EeAcbB2dB",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QLTA",
+    "address": "0xBC34D36B70E5A256F3D16F9cA9D3ca3838f6cC4F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QQQON",
+    "address": "0x0cdE6936d305d5B34667fC46425E852efd73559a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QTUM",
+    "address": "0x467C7cF9AF95765C1Bd6542FfD516BF9603A19b9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QUBT",
+    "address": "0x82E07C1017032cFd889b1Ca81EBe722c4D4de825",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "QYLD",
+    "address": "0x64E023411215C3b75b9F339B7B77F179cd04C527",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RDDT",
+    "address": "0x4DA12f47578ef89c76179b760C778E70b668f80b",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RDW",
+    "address": "0x23e39D94807a8bb7e3f8294b4911D04EE26DcE39",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "REGN",
+    "address": "0x30BD85fD4286c5c9857679F5B188f737B4a7B8C0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "REMX",
+    "address": "0xC16f47C4A7eD39372B9a0e3e2016cEDe9b4cB83a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RGTI",
+    "address": "0xEd2a500eB2b66679e0BbD76e51a60049aE5f3271",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RIOT",
+    "address": "0xC4a88a72B848255Fd24Da3C1aD6755D980535FB1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RIVN",
+    "address": "0x277E1FA8704c5511FEd7E30Bc691F922aa30101B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RKLB",
+    "address": "0xb4D695569236273745B4CD54B539b1b9Cc1513af",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RMBS",
+    "address": "0x49ccB157c77AFE5F264C35f0e9178a98D77815Ab",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ROK",
+    "address": "0x95F7423c51Eab71cBD00ca855B0B2B2153F14184",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "RTX",
+    "address": "0x44fde2C6Bc2C2b54962C69fcEF57A2A50121DBD7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SAP",
+    "address": "0x111f6F2B9F1C5f3Ec841690e1deEc606086727dA",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SATA",
+    "address": "0x732823512Ba98D1BCDE471ca023ee2A0C9f117b7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SBET",
+    "address": "0x99e01F02d66455Bb106D91D469c9EAF6aB4904f6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SBUX",
+    "address": "0x94d7754541B829A87321d56121Bc544167Ac490D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SCCO",
+    "address": "0xF15B8f7465b92799F6EE440F86B3CAB5A4dbc65A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SCHW",
+    "address": "0xe5BA472C98b7E4695bD856290De66bDEDaffC123",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SEDG",
+    "address": "0x8755c5C39b1AA9053a83AC731242a2cf4D04B0Fe",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SGOV",
+    "address": "0xc008c5F579ec1450F20099c39F587547e27c7523",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SHIB",
+    "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SHLD",
+    "address": "0xe5ca1585c6053EE891027fD0A2548cB3B27D7f01",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SHOP",
+    "address": "0x43d0B380c33cD004a6A69aBD61843881a2de4113",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SHY",
+    "address": "0xf95e50BE5Efc96117c28775F80C7Cdb41Ebc4888",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SIL",
+    "address": "0x6A4c1B7aA18638fac4C8e0d1961405E27C25baf1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SKHY",
+    "address": "0x4268F2Bfb23A7496504AA5eD1Ee325248586299F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SLB",
+    "address": "0xfaDdE620010736a5074a4269894Cb52B0a9a91DE",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SLV",
+    "address": "0x8b872732b07be325a8803CDB480D9d20B6f8d11B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SMCI",
+    "address": "0xC142ba8ccD36d80C3a001342fb83E4C3d218A873",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SMR",
+    "address": "0xf4b674D4E33c36F8db4b928A5eEC4E1F87b386e3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SNAP",
+    "address": "0xF325884D9bcac457271fE7F7B6be1765348fCCa2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SNDK",
+    "address": "0x4Fd67CB8CFEdc718BAc984b5936abE3330d0a2A4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SNOW",
+    "address": "0x138ED6833ff4E8811E1FEa0D005E13726c8886F9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SO",
+    "address": "0xD7a6353a23ED2c4fcaC29A63CBBe3f65ffEf41F5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOFI",
+    "address": "0x71507068e98049cBA81E9bbc8d901E4A2f4222Eb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOUN",
+    "address": "0xeDCF71B2e2217064038AdCb54A3C3a5fC3488eF1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOXL",
+    "address": "0xb943c8a0d77b656Daf5244Da060D647Fd9152289",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOXQ",
+    "address": "0x15688f10470dFdDCb4E2d60CD2ACfd3eC418317a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOXS",
+    "address": "0x335DD4112704f108b5Ddd8F8a44Bd9ed68522a80",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SOXX",
+    "address": "0x2A3cbF64C8181DB4a25D41D4d7a7Db9984C59DAC",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPCXON",
+    "address": "0xd0a58BC9D88D3FF48C0294Cb7e45937d0E41A928",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPGI",
+    "address": "0x55B370B704240a914f42B5bBB3195431C031f9f8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPOT",
+    "address": "0x50356167a4DbC38BeA6779C045e24E25fAcEdfdc",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SPYON",
+    "address": "0x6a708EAD771238919D85930b5a0f10454E1C331a",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SQQQ",
+    "address": "0x17515B68378d86C38F394c666e79907dA05dcBA9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "STLD",
+    "address": "0x90EAa91Af0B4559F1F270258Bb5cDDFafbb62da9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "STM",
+    "address": "0x8B46599e0E80a34F37e97DF58E741ca904cdfaBd",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "STNG",
+    "address": "0x4b1c9087a6fe265A36FBf2C591B0986fE1115F50",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "STRC",
+    "address": "0x71E9dc9DEbc18650BD2342B93623B88C2aD00c89",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "STX",
+    "address": "0x966EbCBA3c51E81f5CF159a1EaBeFd2327aB5E8D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SWKS",
+    "address": "0x7Bd821eAad82cb92C1eA64DaC1f3bB2E787E959A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "SYM",
+    "address": "0xc79Fc7aF952c8B41c6b7b7657dd24F44f7C10F2A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "T",
+    "address": "0x4255279aF47cf10eFB9A5C8839F90170F4EF759f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TASK",
+    "address": "0xDB69bEcc323fEc440cA8eb0C3564802E77cE2827",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TCOM",
+    "address": "0x6459303F58244Ff1E7A42b90aA3782Dfb6Ca6969",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TEL",
+    "address": "0x5C50fFD365c852f5e72BFBc2c1aE621e2ACa5Ece",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TEN",
+    "address": "0x686F8264625fe4E51F520Db856003A4dD52A49fF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TER",
+    "address": "0x6F040fC3061374304BddbfdAe9d688d7C868c785",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TIP",
+    "address": "0x2Ac26EC236df5D1d2Ad1A6Dd4E448A90E45DC35D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TLN",
+    "address": "0xbbE4Dfe7a349Fb72aEc6f52d5CD9bDD78AE8f313",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TLT",
+    "address": "0xf69e40069aC227C11459E3f4e8a446b3401616b6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TM",
+    "address": "0xECC1299F183b6a720A6F4729Bf24F82Cd8D50828",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TMO",
+    "address": "0xbCf7D958791152128710565a5fC6f68342Ed71C8",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TMUS",
+    "address": "0x2588F20BAd92Da8dCCE7FaC8311B5F8Ab4690E43",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TNK",
+    "address": "0x2BBF5ab85f9ceb595dD785Db15CC9f2931c6EA64",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TON",
+    "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "decimals": 9,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TQQQ",
+    "address": "0xe42CfB20e00912409B77A602B5BDcfF3c7aCC5F4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TRX",
+    "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSEM",
+    "address": "0x343324170C91c4D8Cf4D439B3E5a619F50621aE7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSLAON",
+    "address": "0x2494b603319d4D9F9715c9f4496d9E0364B59d93",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TSM",
+    "address": "0xC37042A7a4fa510D8884a433762aB87257B91965",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TT",
+    "address": "0x0Afa28A7Ac4E44b1F771515c200F4d67B1f5e8d0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TTMI",
+    "address": "0xF400b05AD5A791c65Acc3f905E5aDe5F1B653c8c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "TXN",
+    "address": "0xCa3a5c955F1F01f20aAcF9501B03E4aa235e478B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UAMY",
+    "address": "0xf8919fe7D586b11D0A900E987c4A41bC6c3195F5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UBER",
+    "address": "0xDE9D6036FCA870f7efc5A82722Ae694c371Ac909",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UCTT",
+    "address": "0xB78ccbcd9DCE42D4fa5fdC835CB6a1aa1095a3b5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UEC",
+    "address": "0xE7ddF606841ee278A30E5C90486681e68ddd8cbF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UMC",
+    "address": "0x318ddd4d03d84A40cf44772385A0CFB3D4394049",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UNG",
+    "address": "0xA5351C9bf08055E03642b6b8649A0f7e895501BF",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UNH",
+    "address": "0x3385Cb29cCA0aC66f5d2354d13ef977b49A2510f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UNP",
+    "address": "0xfe9aA194E3C4604f3872f220eb41C33A287FCD90",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "URA",
+    "address": "0xc7806943663158D68740a14ab0B270bD60BDe87D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "URNM",
+    "address": "0xCa626a74420aAaf285987Da23d829f9159Ab867c",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USAR",
+    "address": "0x2206E07410A8fE9Ef595e7184B2E9d160fdb7211",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USFR",
+    "address": "0xf4fd75764A5C086fb12F822be2cA318b3a362DC3",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USO",
+    "address": "0x94174e3D1335db402dD03A092f7aA7ac2cb32be4",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "UUUU",
+    "address": "0xD2C06fef2ca2375a9C7ceB4AbcA9DBc2aB6aF981",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "V",
+    "address": "0x1CdE419faE0Ef7f7931aE3E29e5f411C8C5E5Fa1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VCX",
+    "address": "0xC8206bB42EC019f7E7Ea060ED887E9F5bB53cBB0",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VDE",
+    "address": "0x9e23662f540C6bc117AdF91230730D9B2FDF5643",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VFS",
+    "address": "0x1D2EaAF0aE00382893aa4318Bd88d1Cd0e9B858A",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VICR",
+    "address": "0xa59469D91563CaeedDd2ffC731f41215E7b691ef",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VNQ",
+    "address": "0x10b58A3d9DCeC59bB1c3bf6b9c9414eAfCE711C9",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VPG",
+    "address": "0xAd8920aFa9d158F5eBAb77c9FfcAD650D72e473D",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VRSN",
+    "address": "0x37fF203Ac221313B620d047eddD7bD6F68d656a6",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VRT",
+    "address": "0x9Cea8A7Be1Ab0320b709d368Ad60d8500f55995f",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VRTX",
+    "address": "0x8c9979Dc208f74a5602c38691aa920F121e2f863",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VSH",
+    "address": "0x821aEf7d0F4347bB9EA6f293a98b19d823EEF0C5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VST",
+    "address": "0xf2C24c47805f4f72d3919C8674bFDd401505794B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VTI",
+    "address": "0x158734153f354CB326EE690C3d55f810DCb0fc90",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VTV",
+    "address": "0xc2dD31B1B3a2f515cE0D48De712c6744C3475170",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "VZ",
+    "address": "0xA3B089C886E6d721f49DEF8E050F3b9D4362560B",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WCC",
+    "address": "0x82436bAE31AE373258bA567f32087eeFc32189F2",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WDC",
+    "address": "0xcEb29848d04Ad3Cb46E1fE8E45B82ffAc39D797d",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WFC",
+    "address": "0x629520dEE1620dEf11596F84E85de9F1Ff653012",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WLK",
+    "address": "0xb3D1a5F9bF92F18da643F2Ada2f2CdfDAE67E9d1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WM",
+    "address": "0xCE0466Bae0e867239719dC386CA84b1F3eFE6914",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WMB",
+    "address": "0x7B7AbD762a400c9768CDeeEF3C01DaE39e0B8427",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WMT",
+    "address": "0xa7d1e886acf66Ec0656DF2DECB4B7C893A3bAb4C",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WOLF",
+    "address": "0x55b56CC2cdcbC2C58668F72663bE7599a46Ed79F",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WS",
+    "address": "0x50e66EDb7D0b79Ee988f098754A27aFaa643B4f5",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WULF",
+    "address": "0xaD56701D9e57957e28e546Db7db508A16d4f86CC",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WYFI",
+    "address": "0xCe128eDcF46B281b7df8880867B74E11B055E8E7",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XOM",
+    "address": "0x4D209D275e3492aC08497A7A42915899c4dD5E86",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XYLD",
+    "address": "0x1FE12ABDF560C753aCbC63533519d74801E04958",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "XYZ",
+    "address": "0xe778A2e5D953c82EB9475cf3B87654226a867344",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "YEAR",
+    "address": "0x4277d20430e901092E259bA9CF7164C37077aAF1",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "ZEC",
+    "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "decimals": 18,
+    "chainId": 56,
+    "networkName": "BSC",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "JPY",
+    "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "decimals": 18,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "LDO",
+    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "decimals": 18,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "NEXO",
+    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "decimals": 18,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "POL",
+    "address": "0x0000000000000000000000000000000000001010",
+    "decimals": 18,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "decimals": 6,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "decimals": 6,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "decimals": 6,
+    "chainId": 137,
+    "networkName": "Polygon",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "AAPL",
+    "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "AMBR",
+    "address": "XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "AMZN",
+    "address": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "ANIN.PVT",
+    "address": "PresTj4Yc2bAR197Er7wz4UUKSfqt6FryBEdAriBoQB",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "ANTH.PVT",
+    "address": "Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "AZN",
+    "address": "Xs3ZFkPYT2BN7qBMqf1j1bfTeTm1rFzEFSsQ1z3wAKU",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "BONK",
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "decimals": 5,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "BRK.B",
+    "address": "Xs6B6zawENwAbWVi7w92rjazLuAr5Az59qgWKcNb45x",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "CETES",
+    "address": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "CMCSA",
+    "address": "XsvKCaNsxg2GN8jjUmq71qukMJr7Q1c5R2Mk9P8kcS8",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "COIN",
+    "address": "Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "CRCL",
+    "address": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "DHR",
+    "address": "Xseo8tgCZfkHxWS9xbFYeKFyMSbWEvZGFV1Gh53GtCV",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "DRAM",
+    "address": "DRAMjSWR7HRfJKjRkvQWYL2bcaejaVhuxEcjf4pAY4Cw",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "GILTS",
+    "address": "GiLTSeSFnNse7xQVYeKdMyckGw66AoRmyggGg1NNd4yr",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "GOOGL",
+    "address": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "HON",
+    "address": "XsRbLZthfABAPAfumWNEJhPyiKDW6TvDVeAeW7oKqA2",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "HOOD",
+    "address": "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "HYPE",
+    "address": "98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "JUP",
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "KLSH.PVT",
+    "address": "PreLWGkkeqG1s4HEfFZSy9moCrJ7btsHuUtfcCeoRua",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "KTB",
+    "address": "KTBeXe7VMPMLxBsqDQu4KA9PdSajF3Hkw1y9qRsKqfL",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "MDT",
+    "address": "XsDgw22qRLTv5Uwuzn6T63cW69exG41T6gwQhEK22u2",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "META",
+    "address": "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "MSTR",
+    "address": "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "MU",
+    "address": "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "NEUR.PVT",
+    "address": "PrekqLJvJ3qVdXmBGDiexvwUTF4rLFDa6HWS4HJbw9S",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "NVDA",
+    "address": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "OPAI.PVT",
+    "address": "PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "PENGU",
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "PM",
+    "address": "Xsba6tUnSjDae2VcopDB6FGGDaxRrewFCDa5hKn5vT3",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "POLA.PVT",
+    "address": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "PUMP",
+    "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "QQQ",
+    "address": "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "RENDER",
+    "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SKHY",
+    "address": "SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SNDK",
+    "address": "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SOL",
+    "address": "So11111111111111111111111111111111111111112",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SPCX",
+    "address": "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SPCX.PVT",
+    "address": "PreANxuXjsy2pvisWWMNB6YaJNzr7681wJJr2rHsfTh",
+    "decimals": 9,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "SPY",
+    "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "TESOURO",
+    "address": "BRNTNaZeTJANz9PeuD8drNbBHwGgg7ZTjiQYrFgWQ48p",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "TRUMP",
+    "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "TSLA",
+    "address": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "USD",
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "USD",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "USDY",
+    "address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "WLFI",
+    "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "decimals": 6,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "XOM",
+    "address": "XsaHND8sHyfMfsWPj6kSdd5VwvCayZvjYgKmmcNL5qh",
+    "decimals": 8,
+    "chainId": 792703809,
+    "networkName": "Solana",
+    "tokenType": "spl"
+  },
+  {
+    "symbol": "ARS",
+    "address": "0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D",
+    "decimals": 18,
+    "chainId": 480,
+    "networkName": "World Chain",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "PEN",
+    "address": "0x4F34c8b3b5FB6D98Da888F0feA543d4d9C9F2eBE",
+    "decimals": 18,
+    "chainId": 480,
+    "networkName": "World Chain",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "USD",
+    "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
+    "decimals": 6,
+    "chainId": 480,
+    "networkName": "World Chain",
+    "tokenType": "erc20"
+  },
+  {
+    "symbol": "WLD",
+    "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+    "decimals": 18,
+    "chainId": 480,
+    "networkName": "World Chain",
+    "tokenType": "erc20"
+  }
+]

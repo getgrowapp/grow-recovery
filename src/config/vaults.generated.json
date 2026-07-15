@@ -1,0 +1,200 @@
+[
+  {
+    "name": "aArbUSDT0",
+    "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+    "underlyingToken": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "underlyingSymbol": "USDT",
+    "version": "v1",
+    "chainId": 42161,
+    "networkName": "Arbitrum"
+  },
+  {
+    "name": "aBasEURC",
+    "address": "0x90DA57E0A6C0d166Bf15764E03b83745Dc90025B",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "cawARS",
+    "address": "0x304Cc2588850A59eC1E59a998Ce883De0e884d23",
+    "underlyingToken": "0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D",
+    "underlyingSymbol": "ARS",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "cawBRL",
+    "address": "0x601222822Dd82c68590A9C4A6B34Df62EF361FC8",
+    "underlyingToken": "0xD76f5Faf6888e24D9F04Bf92a0c8B921FE4390e0",
+    "underlyingSymbol": "BRL",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gauntletWETH",
+    "address": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
+    "underlyingToken": "0x4200000000000000000000000000000000000006",
+    "underlyingSymbol": "ETH",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyEUR",
+    "address": "0x49EfbF81fFB9bcd857cC756B236555616070372f",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyMXN",
+    "address": "0x5C893cBCDff936dC365952Ea2b7c3476539c8a0E",
+    "underlyingToken": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "underlyingSymbol": "MXN",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbySGD",
+    "address": "0x218Ab6e996A610f2AfB2a8eA925DfEA2617c3721",
+    "underlyingToken": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b",
+    "underlyingSymbol": "SGD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyUSD",
+    "address": "0xa157a87D41ef25d033082180858DB0813ad61d39",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyEUR",
+    "address": "0xB0875b7e38bD723FB6D2F6D454761bB5D5fEEf9B",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyMXN",
+    "address": "0x5F7fdbAF61ef967FBE4898F04F35D02e91d97576",
+    "underlyingToken": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "underlyingSymbol": "MXN",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghySGD",
+    "address": "0xE17A3CE0eed58eDd3f3e80B1931d6564D8d27EA1",
+    "underlyingToken": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b",
+    "underlyingSymbol": "SGD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyUSD",
+    "address": "0xCaF1B7B0A5Cc27bb23B6033127D5197013Bde4D3",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakHYUSDC",
+    "address": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakMXNB",
+    "address": "0x08cc279532f159BdB450eBc0bAf6562f585Ded58",
+    "underlyingToken": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "underlyingSymbol": "MXN",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakPrimeEURC",
+    "address": "0xbeef009F28cCf367444a9F79096862920e025DC1",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakPrimeUSDC",
+    "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakUSDC",
+    "address": "0xbeeF010f9cb27031ad51e3333f9aF9C6B1228183",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "steakXSGD",
+    "address": "0xbeef00A299ae1784Fb7740d2d469F60a1E015fe9",
+    "underlyingToken": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b",
+    "underlyingSymbol": "SGD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyJPY",
+    "address": "0xD32F56DbBC4aA3dd6E955C4c2ffB0c9DBa368D89",
+    "underlyingToken": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "underlyingSymbol": "JPY",
+    "version": "v1",
+    "chainId": 137,
+    "networkName": "Polygon"
+  },
+  {
+    "name": "ghyJPY",
+    "address": "0x393b108b89604667B34a7d2D625F9bB3EB550c36",
+    "underlyingToken": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "underlyingSymbol": "JPY",
+    "version": "v1",
+    "chainId": 137,
+    "networkName": "Polygon"
+  },
+  {
+    "name": "steakJPYC",
+    "address": "0xBEEf0F82E269760429BE6255Fa00821b7e4b592A",
+    "underlyingToken": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "underlyingSymbol": "JPY",
+    "version": "v1",
+    "chainId": 137,
+    "networkName": "Polygon"
+  }
+]
