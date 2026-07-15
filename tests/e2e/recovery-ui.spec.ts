@@ -4,7 +4,7 @@ const DISPOSABLE_KEY =
   "0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80";
 
 async function acknowledgeWarning(page: import("@playwright/test").Page) {
-  await page.locator('label.ack input[type="checkbox"]').check();
+  await page.locator('label.checkbox input[type="checkbox"]').check();
 }
 
 test.describe("recovery UI safety", () => {
