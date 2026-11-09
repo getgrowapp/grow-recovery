@@ -1,7 +1,7 @@
 import type { Chain } from "viem";
-import { arbitrum, base, bsc, polygon, worldchain } from "viem/chains";
+import { arbitrum, base, bsc, mainnet, polygon, worldchain } from "viem/chains";
 
-export type RecoveryEvmChainId = 8453 | 56 | 42161 | 137 | 480;
+export type RecoveryEvmChainId = 1 | 8453 | 56 | 42161 | 137 | 480;
 
 export type RecoveryEvmChain = {
   chainId: RecoveryEvmChainId;
@@ -119,6 +119,25 @@ export const RECOVERY_EVM_CHAINS: readonly RecoveryEvmChain[] = [
     ),
     explorerTxBase: "https://worldscan.org/tx/",
   },
+  {
+    chainId: 1,
+    networkName: "Ethereum",
+    viemChain: mainnet,
+    nativeSymbol: "ETH",
+    rpcUrl: envUrl(
+      process.env.NEXT_PUBLIC_ETHEREUM_RPC_URL,
+      "https://ethereum.publicnode.com"
+    ),
+    rpcFallbacks: [
+      "https://eth.llamarpc.com",
+      "https://1rpc.io/eth",
+    ],
+    bundlerUrl: envUrl(
+      process.env.NEXT_PUBLIC_ETHEREUM_BUNDLER_URL,
+      "https://public.pimlico.io/v2/1/rpc"
+    ),
+    explorerTxBase: "https://etherscan.io/tx/",
+  },
 ] as const;
 
 export const SOLANA_NETWORK = {
@@ -136,6 +155,7 @@ export const LIVE_NETWORK_LABELS = [
   "World Chain",
   "Polygon",
   "Arbitrum",
+  "Ethereum",
 ] as const;
 
 export function getEvmChain(chainId: number): RecoveryEvmChain {

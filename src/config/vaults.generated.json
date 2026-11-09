@@ -117,6 +117,87 @@
     "networkName": "Base"
   },
   {
+    "name": "gbyEURgb",
+    "address": "0xECCEB1190452980e15f92ae0Ed158722c8914a9f",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyEURgb",
+    "address": "0xfC987f74c7ba3e59C5469D84c0B9653d10f30851",
+    "underlyingToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "underlyingSymbol": "EUR",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyUSDcs",
+    "address": "0xA08fc6FF6a9e3C55DF503B57aca334c0EdE625D9",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyUSDcs",
+    "address": "0x2C53D51ed67c92b9a56b854da073A801E9c0CBD7",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyUSDe",
+    "address": "0x1c66B3A163e1998D9235E24e782d3d54aDEa094E",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyUSDgf",
+    "address": "0x8F52E47D77c9Ff280C750304Dae7d79DfE0F5FCC",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyUSDgf",
+    "address": "0xA6C7765b29ED55EdF545235da28A952f2E50f4a7",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "gbyUSDgp",
+    "address": "0xBDbE8499f1Beb775D504FF2556cf791680Db90B6",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
+    "name": "ghyUSDgp",
+    "address": "0x29db42dAFFC44072F7DfF1b205D03FEA39C37425",
+    "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "underlyingSymbol": "USD",
+    "version": "v1",
+    "chainId": 8453,
+    "networkName": "Base"
+  },
+  {
     "name": "steakHYUSDC",
     "address": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
     "underlyingToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
@@ -196,5 +277,23 @@
     "version": "v1",
     "chainId": 137,
     "networkName": "Polygon"
+  },
+  {
+    "name": "gbyGBP",
+    "address": "0xD630B23E4ee8b938616F01C2Ce1834BE108712B9",
+    "underlyingToken": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "underlyingSymbol": "GBP",
+    "version": "v1",
+    "chainId": 1,
+    "networkName": "Ethereum"
+  },
+  {
+    "name": "ghyGBP",
+    "address": "0x83c098Adb750C121399932433C07dE9950a03F77",
+    "underlyingToken": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "underlyingSymbol": "GBP",
+    "version": "v1",
+    "chainId": 1,
+    "networkName": "Ethereum"
   }
 ]

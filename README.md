@@ -2,7 +2,7 @@
 
 Minimal, open-source recovery web app for Grow users across every EVM network that is **live in the app**:
 
-**Base · BSC · World Chain · Polygon · Arbitrum**
+**Base · BSC · World Chain · Polygon · Arbitrum · Ethereum**
 
 Import your EVM smart-wallet recovery key (same address on all EVM chains), preview configured balances, and move supported assets — **without** Grow’s backend, paymaster, or application. For Solana assets, import your Solana key into Phantom or another Solana wallet.
 

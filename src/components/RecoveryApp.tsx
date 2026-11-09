@@ -559,7 +559,7 @@ export function RecoveryApp() {
             <h1>Recover your Grow account</h1>
             <p className="lede">
               Import your EVM recovery key to recover assets on Base, BSC,
-              Arbitrum, Polygon, and World Chain. Next you’ll see your balances
+              Arbitrum, Polygon, World Chain, and Ethereum. Next you’ll see your balances
               and can send them to another wallet. This page runs only on your
               device — Grow never sees your key.
             </p>

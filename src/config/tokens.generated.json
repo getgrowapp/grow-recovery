@@ -5086,5 +5086,13 @@
     "chainId": 480,
     "networkName": "World Chain",
     "tokenType": "erc20"
+  },
+  {
+    "symbol": "GBP",
+    "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "decimals": 18,
+    "chainId": 1,
+    "networkName": "Ethereum",
+    "tokenType": "erc20"
   }
 ]

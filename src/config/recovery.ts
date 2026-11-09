@@ -11,7 +11,7 @@ import { LIVE_NETWORK_LABELS, RECOVERY_EVM_CHAINS } from "./chains";
  * Grow EVM smart wallets are MultiOwner Modular Accounts (factory
  * `0x000000e92D78D90000007F0082006FDA09BD5f11`, salt `0`, EntryPoint v0.6).
  * The **same smart-account address** is used on Base, BSC, Arbitrum, Polygon,
- * and World Chain. Solana uses a separate wallet / keypair.
+ * World Chain, and Ethereum. Solana uses a separate wallet / keypair.
  */
 
 export type MorphoVaultVersion = "v1" | "v2";
